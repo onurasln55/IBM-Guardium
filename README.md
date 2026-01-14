@@ -1,0 +1,2 @@
+# IBM-Guardium
+Guardium öğreniyorum
