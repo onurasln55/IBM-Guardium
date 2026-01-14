@@ -7,3 +7,13 @@ GIM kurulumundan sonra root yetkisi ile tüm kurulum güncelleme işlemleri guar
 Ajan operasyonları için işletim sistemi adminine ihtiyaç duymaz.
 
 Ajan kurulumu için gerekli tüm dosyaları IBM Fix Central sayfasından indirmeniz gerekmektedir.
+
+Komut satırında command ile komutları görürüz
+devamında yazdıgımız örnek network vs olursa network ile alaklı komutlar gelir
+store komutu değiştirmeiy sağlar
+show gösterir 
+start stop restart da durdurup başlatır 
+
+Default kullanıcılar ve roller
+admin -- En yetkili kullanıcıdır. Kullanıcı ve rol yönetimi hariç her şeyi yapabilir
+accessmgr -- Guardium sistemi üzerinde kullanıcı ve rol yetkisini düzenleyen kullanıcı ve roldür.
