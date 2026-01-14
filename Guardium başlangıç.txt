@@ -1,0 +1,9 @@
+Siem log toplama yapısından farklı olarak kernel seviyesinde veri tabanı isteklerini dinler gerekli şartlar sağlanır ise istegin sunucuya erişmesini engeller. Bunun için ajan yapısı vardır.
+
+GIM Guardium Instal Manager 
+Guardium’a ait tüm ajan mimarisini uzaktan ve merkezi olarak yönetilebilmesine imkan verir.
+STAP, CAS, FAM Monitor gibi bileşenleri uzaktan yönetebilir.
+GIM kurulumundan sonra root yetkisi ile tüm kurulum güncelleme işlemleri guardium admini tarafından CM üzerinden yapılabilir.
+Ajan operasyonları için işletim sistemi adminine ihtiyaç duymaz.
+
+Ajan kurulumu için gerekli tüm dosyaları IBM Fix Central sayfasından indirmeniz gerekmektedir.
